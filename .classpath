@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/eclipse-jee-mars-R-win32-x86_64/eclipse/Httpclient_jar/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse-jee-mars-R-win32-x86_64/eclipse/Httpclient_jar/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse-jee-mars-R-win32-x86_64/eclipse/Httpclient_jar/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse-jee-mars-R-win32-x86_64/eclipse/htmlparser-1.6p.jar/htmlparser-1.6p.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
